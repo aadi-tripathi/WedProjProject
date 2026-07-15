@@ -1,9 +1,9 @@
+version: "1.0"
 info:
   model: int-scaffold
 packages:
-- gitBranch: main
+- name: WedProjProject
   gitServerName: NewTest
   gitUrl: https://github.com/aadi-tripathi
   gitUsername: aadi-tripathi
-  name: WedProjProject
-version: '1.0'
+  gitBranch: main
